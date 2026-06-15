@@ -7,12 +7,6 @@
 ![](https://streak-stats.demolab.com/?user=anhkiet07&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anhkiet07&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/anhkiet07/anhkiet07/output/dist/github-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/anhkiet07/anhkiet07/output/dist/github-snake.svg#gh-light-mode-only)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anhkiet07&theme=flag-india&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
